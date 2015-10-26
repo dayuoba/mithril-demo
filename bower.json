@@ -1,0 +1,22 @@
+{
+  "name": "my-awesome-mithril-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yuyang <yuyang@goyoo.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.5",
+    "material-design-icons": "~2.0.0"
+  }
+}
